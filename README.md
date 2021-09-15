@@ -21,6 +21,7 @@ Do your best to replicate the following simple graphics:
 
 # Submission
 - Create a pull request to this repository
+- In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions for these three prompts
 
 
