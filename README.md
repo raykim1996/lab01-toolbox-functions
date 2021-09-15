@@ -11,7 +11,8 @@ Create a [Shadertoy account](https://www.shadertoy.com/). Create a new shadertoy
 Do your best to replicate the following graphics:
 
 1. Spinning Flower
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/ssy3RG?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+![dbd6b5b655de0843869f06d8f9871770](https://user-images.githubusercontent.com/1758825/133485625-8385c7ca-6015-4809-b8ad-3311df071889.gif)
+
 
 
 
