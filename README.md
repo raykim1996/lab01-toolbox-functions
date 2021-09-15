@@ -1,6 +1,6 @@
 # lab01-toolbox-functions
 
-Let's practice using some tool box functions! Beginning with the [simple circle code HERE](https://www.shadertoy.com/view/XsjGDt), do your best to replicate the following graphics.
+Let's practice using some tool box functions!
 
 # Setup 
 
@@ -8,4 +8,5 @@ Create a [Shadertoy account](https://www.shadertoy.com/). Create a new shadertoy
 
 # Puzzles
 
-Do your best to replicate the following: 
+Do your best to replicate the following graphics:
+ 
