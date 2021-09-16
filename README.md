@@ -2,6 +2,12 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Partner:
+- no partner
+# Links:
+- Q1: https://www.shadertoy.com/view/fdVGRy
+- Q2: https://www.shadertoy.com/view/7sVGRy
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Create a new shadertoy and copy the code from the [Humble Little Circle demo](https://www.shadertoy.com/view/7dy3RG).
